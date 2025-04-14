@@ -1,0 +1,33 @@
+body {
+    background: #f8f9fa;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.form-container {
+    max-width: 1000px;
+    margin: auto;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-control:focus {
+    box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, 0.25);
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+.alert {
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: 500;
+}
