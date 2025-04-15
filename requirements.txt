@@ -12,7 +12,6 @@ itsdangerous
 python-multipart
 spacy
 dateparser
-en_core_web_sm
 twilio
 fastapi
 mangum
